@@ -2,6 +2,8 @@
 using namespace std;
 
 int main() {
-  cout << "Three World11!";
+  int num;
+  cin >> num;
+  cout << "The number is " << num;
   return 0;
 } 
